@@ -1,7 +1,7 @@
 //Build function to read json file using d3 and plot charts
 function buildPlots(id) {
     
-    d3.json("../../samples.json").then((data) => {
+    d3.json("samples.json").then((data) => {
          
         var metadata = data.metadata;
         console.log(metadata);
