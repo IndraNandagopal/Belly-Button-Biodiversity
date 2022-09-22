@@ -36,7 +36,9 @@ Completed the following steps:
 
 6. Updated all the plots when a new sample is selected.
 
-Here is the Belly Button Biodiversity Dashboard created: 
+`Here is the Belly Button Biodiversity Dashboard created:`
+
+
 ![Belly Button Biodiversity Dashboard](Images/Belly_Button_Biodiversity_Dashboard.png)
 
 
