@@ -48,7 +48,7 @@ function buildPlots(id) {
         
         // Define bar layout
         var bar_layout = {
-            title: "Top 10 Microbial Species in Belly Buttons",
+            title: "<b>Top 10 Microbial Species in Belly Buttons</b>",
             xaxis: { title: "Bacteria Sample Values" },
             yaxis: { title: "OTU IDs" }
         };
@@ -72,7 +72,7 @@ function buildPlots(id) {
             
         ];
         var bubble_layout = {
-            title: "Bacteria Cultures Per Sample",
+            title: "<b>Bacteria Cultures Per Sample</b>",
             hovermode: "closest",
             xaxis: {title: "OTU ID"},
             yaxis: { title: "Sample Values" },
@@ -92,7 +92,7 @@ function buildPlots(id) {
             {
                 domain: { x: [0, 1], y: [0, 1] },
                 value: washFreq,
-                title: { text: "Washing Frequency (Times per Week)" },
+                title: { text: "<b>Washing Frequency</b><br> (Times per Week)" },
                 type: "indicator",
                 mode: "gauge+number",
                 gauge: {
