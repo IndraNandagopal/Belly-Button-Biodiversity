@@ -4,7 +4,7 @@ In this project, an interactive dashboard was built to explore the [Belly Button
 
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
-## Creation of Dashboard
+## Creation of Belly-Button-Biodiversity Dashboard
 
 Completed the following steps:
 
@@ -36,8 +36,8 @@ Completed the following steps:
 
 6. Updated all the plots when a new sample is selected.
 
-Here is the Belly Button BioDiversity Dashboard created: 
-![Belly Button BioDiversity Dashboard](Images/Belly_Button_Biodiversity_Dashboard.png)
+Here is the Belly Button Biodiversity Dashboard created: 
+![Belly Button Biodiversity Dashboard](Images/Belly_Button_Biodiversity_Dashboard.png)
 
 
 ## Advanced Challenge (Optional)
