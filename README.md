@@ -41,8 +41,12 @@ Completed the following steps:
 
 ![Belly Button Biodiversity Dashboard](Images/Belly_Button_Biodiversity_Dashboard.png)
 
+7. Deployed the app as a GitHub Page.
+ [GitHub Page](https://indranandagopal.github.io/Belly-Button-Biodiversity/)
 
-## Advanced Challenge (Optional)
+## Advanced Challenge 
+
+* Implemented the `Advanced Challenge` in `app.js` file itself.
 
 * Adapted the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
 
